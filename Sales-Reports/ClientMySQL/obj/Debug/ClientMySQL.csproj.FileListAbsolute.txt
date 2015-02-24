@@ -1,0 +1,40 @@
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\bin\Debug\ClientMySQL.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\bin\Debug\ClientMySQL.pdb
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\obj\Debug\ClientMySQL.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\obj\Debug\ClientMySQL.pdb
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\obj\Debug\ClientMySQL.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\bin\Debug\ClientMySQL.dll.config
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\bin\Debug\EntityFramework.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\bin\Debug\Supermarket.Data.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\bin\Debug\Supermarket.Data.pdb
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\bin\Debug\EntityFramework.xml
+C:\Users\ScorpS\Desktop\Team Project - Database\ClientMySQL\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\bin\Debug\ClientMySQL.dll.config
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\bin\Debug\ClientMySQL.dll
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\bin\Debug\ClientMySQL.pdb
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\bin\Debug\EntityFramework.dll
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\bin\Debug\Supermarket.Data.dll
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\bin\Debug\Supermarket.Data.pdb
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\bin\Debug\EntityFramework.xml
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\obj\Debug\ClientMySQL.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\obj\Debug\ClientMySQL.dll
+C:\Users\ScorpS\Desktop\Copy\ClientMySQL\obj\Debug\ClientMySQL.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\ClientMySQL.dll.config
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\ClientMySQL.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\ClientMySQL.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\EntityFramework.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\Supermarket.Data.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\SupermarketSQL.Context.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\SupermarketSQL.Models.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\Supermarket.Data.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\SupermarketSQL.Context.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\SupermarketSQL.Models.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\EntityFramework.xml
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\obj\Debug\ClientMySQL.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\obj\Debug\ClientMySQL.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientMySQL\obj\Debug\ClientMySQL.pdb

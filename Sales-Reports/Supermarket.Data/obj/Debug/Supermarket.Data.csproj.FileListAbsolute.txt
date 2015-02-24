@@ -1,0 +1,27 @@
+C:\Users\Viktor\documents\visual studio 2012\Projects\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\Viktor\documents\visual studio 2012\Projects\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\Viktor\documents\visual studio 2012\Projects\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\Viktor\documents\visual studio 2012\Projects\Supermarket\Supermarket.Data\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\Viktor\documents\visual studio 2012\Projects\Supermarket\Supermarket.Data\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\Viktor\documents\visual studio 2012\Projects\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\Viktor\documents\visual studio 2012\Projects\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
+C:\Users\ScorpS\Desktop\Team Project - Database\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\ScorpS\Desktop\Team Project - Database\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\ScorpS\Desktop\Team Project - Database\Supermarket.Data\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\Supermarket.Data\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\ScorpS\Desktop\Team Project - Database\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Team Project - Database\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
+C:\Users\ScorpS\Desktop\Team Project - Database\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\ScorpS\Desktop\Copy\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\ScorpS\Desktop\Copy\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\ScorpS\Desktop\Copy\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\ScorpS\Desktop\Copy\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\ScorpS\Desktop\Copy\Supermarket.Data\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\ScorpS\Desktop\Copy\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\ScorpS\Desktop\Copy\Supermarket.Data\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\ScorpS\Desktop\Copy\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Copy\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\ScorpS\Desktop\Copy\Supermarket.Data\obj\Debug\Supermarket.Data.pdb

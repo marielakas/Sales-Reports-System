@@ -1,0 +1,24 @@
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\bin\Debug\SupermarketSQL.Context.dll.config
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\bin\Debug\SupermarketSQL.Context.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\bin\Debug\SupermarketSQL.Context.pdb
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\bin\Debug\EntityFramework.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\bin\Debug\SupermarketSQL.Models.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\bin\Debug\SupermarketSQL.Models.pdb
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\bin\Debug\EntityFramework.xml
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\obj\Debug\SupermarketSQL.Context.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\obj\Debug\SupermarketSQL.Context.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\obj\Debug\SupermarketSQL.Context.pdb
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\obj\Debug\SupermarketSQL.Context.Migrations.InitialCreate.resources
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Context\obj\Debug\SupermarketSQL.Context.csproj.GenerateResource.Cache
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\bin\Debug\SupermarketSQL.Context.dll.config
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\bin\Debug\SupermarketSQL.Context.dll
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\bin\Debug\SupermarketSQL.Context.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\bin\Debug\EntityFramework.dll
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\bin\Debug\SupermarketSQL.Models.dll
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\bin\Debug\SupermarketSQL.Models.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\bin\Debug\EntityFramework.xml
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\obj\Debug\SupermarketSQL.Context.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\obj\Debug\SupermarketSQL.Context.Migrations.InitialCreate.resources
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\obj\Debug\SupermarketSQL.Context.csproj.GenerateResource.Cache
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\obj\Debug\SupermarketSQL.Context.dll
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Context\obj\Debug\SupermarketSQL.Context.pdb

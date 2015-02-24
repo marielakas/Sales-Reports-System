@@ -1,0 +1,8 @@
+C:\Users\ScorpS\Desktop\Team Project 2\SQLite.Data\bin\Debug\SQLite.Data.dll
+C:\Users\ScorpS\Desktop\Team Project 2\SQLite.Data\bin\Debug\SQLite.Data.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\SQLite.Data\obj\Debug\SQLite.Data.dll
+C:\Users\ScorpS\Desktop\Team Project 2\SQLite.Data\obj\Debug\SQLite.Data.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\SQLite.Data\bin\Debug\SQLite.Data.dll.config
+C:\Users\ScorpS\Desktop\Team Project 2\SQLite.Data\bin\Debug\EntityFramework.dll
+C:\Users\ScorpS\Desktop\Team Project 2\SQLite.Data\bin\Debug\EntityFramework.xml
+C:\Users\ScorpS\Desktop\Team Project 2\SQLite.Data\obj\Debug\SQLite.Data.csprojResolveAssemblyReference.cache

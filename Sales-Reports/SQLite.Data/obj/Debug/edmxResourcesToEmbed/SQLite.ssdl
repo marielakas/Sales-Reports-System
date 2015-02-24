@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SupermarketModelSQLite.Store" Alias="Self" Provider="System.Data.SQLite" ProviderManifestToken="ISO8601" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="SupermarketModelSQLiteStoreContainer">
+    <EntitySet Name="Taxes" EntityType="SupermarketModelSQLite.Store.Taxes" store:Type="Tables" store:Name="Taxes">
+      <DefiningQuery>SELECT 
+      [Taxes].[ProductId] AS [ProductId], 
+      [Taxes].[Tax] AS [Tax]
+      FROM [Taxes] AS [Taxes]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'main.Taxes' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Taxes">
+    <Key>
+      <PropertyRef Name="ProductId" />
+      <PropertyRef Name="Tax" />
+    </Key>
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="Tax" Type="int" Nullable="false" />
+  </EntityType>
+</Schema>

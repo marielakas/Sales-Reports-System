@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SupermarketModelSQLite" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SupermarketSQLite" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Taxes" EntityType="SupermarketModelSQLite.Taxes" />
+  </EntityContainer>
+  <EntityType Name="Taxes">
+    <Key>
+      <PropertyRef Name="ProductId" />
+      <PropertyRef Name="Tax" />
+    </Key>
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="Tax" Type="Int32" Nullable="false" />
+  </EntityType>
+</Schema>

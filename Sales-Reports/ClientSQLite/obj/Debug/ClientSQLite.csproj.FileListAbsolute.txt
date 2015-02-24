@@ -1,0 +1,14 @@
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\ClientSQLite.dll.config
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\ClientSQLite.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\ClientSQLite.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\EntityFramework.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\SQLite.Data.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\SupermarketSQL.Context.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\SupermarketSQL.Models.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\SQLite.Data.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\SupermarketSQL.Context.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\SupermarketSQL.Models.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\bin\Debug\EntityFramework.xml
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\obj\Debug\ClientSQLite.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\obj\Debug\ClientSQLite.dll
+C:\Users\ScorpS\Desktop\Team Project 2\ClientSQLite\obj\Debug\ClientSQLite.pdb

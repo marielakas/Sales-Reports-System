@@ -1,0 +1,29 @@
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\obj\Debug\PDFWriter.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\PDFWriter.dll.config
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\PDFWriter.dll
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\PDFWriter.pdb
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\EntityFramework.dll
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\itextsharp.dll
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\itextsharp.xtra.dll
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\SupermarketSQL.Context.dll
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\SupermarketSQL.Models.dll
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\SupermarketSQL.Context.pdb
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\SupermarketSQL.Models.pdb
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\bin\Debug\itextsharp.xml
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\obj\Debug\PDFWriter.dll
+C:\Users\Viktor\Desktop\Supermarket\PDFWriter\obj\Debug\PDFWriter.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\bin\Debug\PDFWriter.dll.config
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\bin\Debug\PDFWriter.dll
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\bin\Debug\PDFWriter.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\bin\Debug\EntityFramework.dll
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\bin\Debug\SupermarketSQL.Context.dll
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\bin\Debug\SupermarketSQL.Models.dll
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\bin\Debug\SupermarketSQL.Context.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\bin\Debug\SupermarketSQL.Models.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\bin\Debug\EntityFramework.xml
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\bin\Debug\itextsharp.xml
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\obj\Debug\PDFWriter.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\obj\Debug\PDFWriter.dll
+C:\Users\ScorpS\Desktop\Team Project 2\PDFWriter\obj\Debug\PDFWriter.pdb

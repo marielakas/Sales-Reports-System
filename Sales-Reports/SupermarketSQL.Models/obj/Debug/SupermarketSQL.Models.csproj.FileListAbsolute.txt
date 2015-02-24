@@ -1,0 +1,12 @@
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Models\bin\Debug\SupermarketSQL.Models.dll.config
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Models\bin\Debug\SupermarketSQL.Models.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Models\bin\Debug\SupermarketSQL.Models.pdb
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Models\obj\Debug\SupermarketSQL.Models.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Models\obj\Debug\SupermarketSQL.Models.dll
+C:\Users\ScorpS\Desktop\Team Project - Database\SupermarketSQL.Models\obj\Debug\SupermarketSQL.Models.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Models\bin\Debug\SupermarketSQL.Models.dll.config
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Models\bin\Debug\SupermarketSQL.Models.dll
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Models\bin\Debug\SupermarketSQL.Models.pdb
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Models\obj\Debug\SupermarketSQL.Models.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Models\obj\Debug\SupermarketSQL.Models.dll
+C:\Users\ScorpS\Desktop\Team Project 2\SupermarketSQL.Models\obj\Debug\SupermarketSQL.Models.pdb
